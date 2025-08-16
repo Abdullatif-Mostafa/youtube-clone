@@ -111,7 +111,7 @@ body {
   height: 42px;
   border-radius: 50%;
   background: transparent;
-  border: 1px solid #060505;
+  border: 1px solid transparent;
   color: black;
   color: var(--text);
   cursor: pointer;
